@@ -1,0 +1,155 @@
+﻿  소스.cpp
+C:\Users\story\source\repos\QuizGame\QuizGame\소스.cpp(1,1): warning C4005: '_CRT_SECURE_NO_WARNINGS': 매크로 재정의
+C:\Users\story\source\repos\QuizGame\QuizGame\소스.cpp : message : '_CRT_SECURE_NO_WARNINGS'의 이전 정의를 참조하십시오.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\winnt.h(18611,19): error C2059: 구문 오류: '상수'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\winnt.h(18611,22): error C2334: ':' 앞에 예기치 않은 토큰이 있습니다. 명백한 함수 본문을 건너뜁니다.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\winnt.h(19916,9): error C2170: '__fastfail': 함수로 선언하지 않았으므로 내장 함수일 수 없습니다.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\winnt.h(21963,8): error C2059: 구문 오류: '문자열'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\winnt.h(21963,12): error C2334: '{' 앞에 예기치 않은 토큰이 있습니다. 명백한 함수 본문을 건너뜁니다.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\shared\minwindef.h(186,1): error C2159: 스토리지 클래스를 두 개 이상 지정했습니다.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\shared\minwindef.h(186,9): error C2371: 'UINT_PTR': 재정의. 기본 형식이 다릅니다.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\shared\basetsd.h(135): message : 'UINT_PTR' 선언을 참조하십시오.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\shared\minwindef.h(186,29): error C2146: 구문 오류: ';'이(가) 'WPARAM' 식별자 앞에 없습니다.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\shared\minwindef.h(186,35): error C4430: 형식 지정자가 없습니다. int로 가정합니다. 참고: C++에서는 기본 int를 지원하지 않습니다.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\minwinbase.h(217,46): error C4430: 형식 지정자가 없습니다. int로 가정합니다. 참고: C++에서는 기본 int를 지원하지 않습니다.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\minwinbase.h(217,30): error C2146: 구문 오류: ';'이(가) 'CRITICAL_SECTION' 식별자 앞에 없습니다.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\minwinbase.h(218,48): error C4430: 형식 지정자가 없습니다. int로 가정합니다. 참고: C++에서는 기본 int를 지원하지 않습니다.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\minwinbase.h(218,31): error C2146: 구문 오류: ';'이(가) 'PCRITICAL_SECTION' 식별자 앞에 없습니다.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\minwinbase.h(221,58): error C4430: 형식 지정자가 없습니다. int로 가정합니다. 참고: C++에서는 기본 int를 지원하지 않습니다.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\minwinbase.h(221,36): error C2146: 구문 오류: ';'이(가) 'CRITICAL_SECTION_DEBUG' 식별자 앞에 없습니다.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\minwinbase.h(222,60): error C4430: 형식 지정자가 없습니다. int로 가정합니다. 참고: C++에서는 기본 int를 지원하지 않습니다.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\minwinbase.h(222,37): error C2146: 구문 오류: ';'이(가) 'PCRITICAL_SECTION_DEBUG' 식별자 앞에 없습니다.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\errhandlingapi.h(150,10): error C2061: 구문 오류: 식별자 'PVECTORED_EXCEPTION_HANDLER'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\errhandlingapi.h(168,10): error C2061: 구문 오류: 식별자 'PVECTORED_EXCEPTION_HANDLER'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\fibersapi.h(37,37): warning C4229: 오래된 구문을 사용했습니다. 데이터의 한정자가 무시됩니다.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\fibersapi.h(37,37): error C2491: 'FlsAlloc': dllimport 데이터을(를) 정의할 수 없습니다.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\fibersapi.h(37,14): error C2065: 'PFLS_CALLBACK_FUNCTION': 선언되지 않은 식별자입니다.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\fibersapi.h(37,37): error C2146: 구문 오류: ')'이(가) 'lpCallback' 식별자 앞에 없습니다.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\heapapi.h(152,10): error C2061: 구문 오류: 식별자 'HEAP_INFORMATION_CLASS'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\heapapi.h(234,10): error C2061: 구문 오류: 식별자 'HEAP_INFORMATION_CLASS'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\synchapi.h(34,28): error C4430: 형식 지정자가 없습니다. int로 가정합니다. 참고: C++에서는 기본 int를 지원하지 않습니다.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\synchapi.h(34,21): error C2146: 구문 오류: ';'이(가) 'SRWLOCK' 식별자 앞에 없습니다.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\synchapi.h(34,39): error C4430: 형식 지정자가 없습니다. int로 가정합니다. 참고: C++에서는 기본 int를 지원하지 않습니다.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\synchapi.h(48,20): warning C4229: 오래된 구문을 사용했습니다. 데이터의 한정자가 무시됩니다.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\synchapi.h(47,1): error C2182: 'InitializeSRWLock': 'void' 형식을 잘못 사용했습니다.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\synchapi.h(48,20): error C2491: 'InitializeSRWLock': dllimport 데이터을(를) 정의할 수 없습니다.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\synchapi.h(48,20): error C2146: 구문 오류: ')'이(가) 'SRWLock' 식별자 앞에 없습니다.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\synchapi.h(57,22): warning C4229: 오래된 구문을 사용했습니다. 데이터의 한정자가 무시됩니다.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\synchapi.h(56,1): error C2182: 'ReleaseSRWLockExclusive': 'void' 형식을 잘못 사용했습니다.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\synchapi.h(57,22): error C2491: 'ReleaseSRWLockExclusive': dllimport 데이터을(를) 정의할 수 없습니다.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\synchapi.h(57,22): error C2146: 구문 오류: ')'이(가) 'SRWLock' 식별자 앞에 없습니다.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\synchapi.h(66,22): warning C4229: 오래된 구문을 사용했습니다. 데이터의 한정자가 무시됩니다.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\synchapi.h(65,1): error C2182: 'ReleaseSRWLockShared': 'void' 형식을 잘못 사용했습니다.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\synchapi.h(66,22): error C2491: 'ReleaseSRWLockShared': dllimport 데이터을(를) 정의할 수 없습니다.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\synchapi.h(66,22): error C2146: 구문 오류: ')'이(가) 'SRWLock' 식별자 앞에 없습니다.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\synchapi.h(75,22): warning C4229: 오래된 구문을 사용했습니다. 데이터의 한정자가 무시됩니다.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\synchapi.h(74,1): error C2182: 'AcquireSRWLockExclusive': 'void' 형식을 잘못 사용했습니다.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\synchapi.h(75,22): error C2491: 'AcquireSRWLockExclusive': dllimport 데이터을(를) 정의할 수 없습니다.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\synchapi.h(75,22): error C2146: 구문 오류: ')'이(가) 'SRWLock' 식별자 앞에 없습니다.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\synchapi.h(84,22): warning C4229: 오래된 구문을 사용했습니다. 데이터의 한정자가 무시됩니다.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\synchapi.h(83,1): error C2182: 'AcquireSRWLockShared': 'void' 형식을 잘못 사용했습니다.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\synchapi.h(84,22): error C2491: 'AcquireSRWLockShared': dllimport 데이터을(를) 정의할 수 없습니다.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\synchapi.h(84,22): error C2146: 구문 오류: ')'이(가) 'SRWLock' 식별자 앞에 없습니다.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\synchapi.h(93,22): warning C4229: 오래된 구문을 사용했습니다. 데이터의 한정자가 무시됩니다.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\synchapi.h(93,22): error C2491: 'TryAcquireSRWLockExclusive': dllimport 데이터을(를) 정의할 수 없습니다.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\synchapi.h(93,22): error C2146: 구문 오류: ')'이(가) 'SRWLock' 식별자 앞에 없습니다.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\synchapi.h(102,22): warning C4229: 오래된 구문을 사용했습니다. 데이터의 한정자가 무시됩니다.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\synchapi.h(102,22): error C2491: 'TryAcquireSRWLockShared': dllimport 데이터을(를) 정의할 수 없습니다.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\synchapi.h(102,22): error C2146: 구문 오류: ')'이(가) 'SRWLock' 식별자 앞에 없습니다.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\synchapi.h(203,31): error C4430: 형식 지정자가 없습니다. int로 가정합니다. 참고: C++에서는 기본 int를 지원하지 않습니다.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\synchapi.h(203,22): error C2146: 구문 오류: ';'이(가) 'INIT_ONCE' 식별자 앞에 없습니다.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\synchapi.h(204,33): error C4430: 형식 지정자가 없습니다. int로 가정합니다. 참고: C++에서는 기본 int를 지원하지 않습니다.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\synchapi.h(204,23): error C2146: 구문 오류: ';'이(가) 'PINIT_ONCE' 식별자 앞에 없습니다.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\synchapi.h(227,24): error C2165: '왼쪽 한정자': 데이터에 대한 포인터를 수정할 수 없습니다.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\synchapi.h(227,24): error C2146: 구문 오류: ')'이(가) 'InitOnce' 식별자 앞에 없습니다.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\synchapi.h(238,22): warning C4229: 오래된 구문을 사용했습니다. 데이터의 한정자가 무시됩니다.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\synchapi.h(237,1): error C2182: 'InitOnceInitialize': 'void' 형식을 잘못 사용했습니다.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\synchapi.h(238,22): error C2491: 'InitOnceInitialize': dllimport 데이터을(를) 정의할 수 없습니다.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\synchapi.h(238,22): error C2146: 구문 오류: ')'이(가) 'InitOnce' 식별자 앞에 없습니다.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\synchapi.h(246,24): warning C4229: 오래된 구문을 사용했습니다. 데이터의 한정자가 무시됩니다.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\synchapi.h(246,24): error C2491: 'InitOnceExecuteOnce': dllimport 데이터을(를) 정의할 수 없습니다.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\synchapi.h(246,24): error C2146: 구문 오류: ')'이(가) 'InitOnce' 식별자 앞에 없습니다.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\synchapi.h(280,50): error C4430: 형식 지정자가 없습니다. int로 가정합니다. 참고: C++에서는 기본 int를 지원하지 않습니다.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\synchapi.h(280,32): error C2146: 구문 오류: ';'이(가) 'CONDITION_VARIABLE' 식별자 앞에 없습니다.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\synchapi.h(280,72): error C4430: 형식 지정자가 없습니다. int로 가정합니다. 참고: C++에서는 기본 int를 지원하지 않습니다.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\synchapi.h(300,31): warning C4229: 오래된 구문을 사용했습니다. 데이터의 한정자가 무시됩니다.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\synchapi.h(299,1): error C2182: 'InitializeConditionVariable': 'void' 형식을 잘못 사용했습니다.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\synchapi.h(300,31): error C2491: 'InitializeConditionVariable': dllimport 데이터을(를) 정의할 수 없습니다.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\synchapi.h(300,31): error C2146: 구문 오류: ')'이(가) 'ConditionVariable' 식별자 앞에 없습니다.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\synchapi.h(308,33): warning C4229: 오래된 구문을 사용했습니다. 데이터의 한정자가 무시됩니다.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\synchapi.h(307,1): error C2182: 'WakeConditionVariable': 'void' 형식을 잘못 사용했습니다.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\synchapi.h(308,33): error C2491: 'WakeConditionVariable': dllimport 데이터을(를) 정의할 수 없습니다.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\synchapi.h(308,33): error C2146: 구문 오류: ')'이(가) 'ConditionVariable' 식별자 앞에 없습니다.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\synchapi.h(316,33): warning C4229: 오래된 구문을 사용했습니다. 데이터의 한정자가 무시됩니다.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\synchapi.h(315,1): error C2182: 'WakeAllConditionVariable': 'void' 형식을 잘못 사용했습니다.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\synchapi.h(316,33): error C2491: 'WakeAllConditionVariable': dllimport 데이터을(를) 정의할 수 없습니다.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\synchapi.h(316,33): error C2146: 구문 오류: ')'이(가) 'ConditionVariable' 식별자 앞에 없습니다.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\synchapi.h(324,33): warning C4229: 오래된 구문을 사용했습니다. 데이터의 한정자가 무시됩니다.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\synchapi.h(324,33): error C2491: 'SleepConditionVariableCS': dllimport 데이터을(를) 정의할 수 없습니다.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\synchapi.h(324,33): error C2146: 구문 오류: ')'이(가) 'ConditionVariable' 식별자 앞에 없습니다.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\synchapi.h(334,33): warning C4229: 오래된 구문을 사용했습니다. 데이터의 한정자가 무시됩니다.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\synchapi.h(334,33): error C2491: 'SleepConditionVariableSRW': dllimport 데이터을(를) 정의할 수 없습니다.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\synchapi.h(334,33): error C2146: 구문 오류: ')'이(가) 'ConditionVariable' 식별자 앞에 없습니다.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\synchapi.h(709,44): error C4430: 형식 지정자가 없습니다. int로 가정합니다. 참고: C++에서는 기본 int를 지원하지 않습니다.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\synchapi.h(709,21): error C2146: 구문 오류: ';'이(가) 'SYNCHRONIZATION_BARRIER' 식별자 앞에 없습니다.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\synchapi.h(710,46): error C4430: 형식 지정자가 없습니다. int로 가정합니다. 참고: C++에서는 기본 int를 지원하지 않습니다.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\synchapi.h(710,22): error C2146: 구문 오류: ';'이(가) 'PSYNCHRONIZATION_BARRIER' 식별자 앞에 없습니다.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\interlockedapi.h(41,25): warning C4229: 오래된 구문을 사용했습니다. 데이터의 한정자가 무시됩니다.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\interlockedapi.h(40,1): error C2182: 'InitializeSListHead': 'void' 형식을 잘못 사용했습니다.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\interlockedapi.h(41,25): error C2491: 'InitializeSListHead': dllimport 데이터을(를) 정의할 수 없습니다.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\interlockedapi.h(41,11): error C2065: 'PSLIST_HEADER': 선언되지 않은 식별자입니다.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\interlockedapi.h(41,25): error C2146: 구문 오류: ')'이(가) 'ListHead' 식별자 앞에 없습니다.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\interlockedapi.h(47,1): error C2143: 구문 오류: ';'이(가) '__stdcall' 앞에 없습니다.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\interlockedapi.h(47,1): error C4430: 형식 지정자가 없습니다. int로 가정합니다. 참고: C++에서는 기본 int를 지원하지 않습니다.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\interlockedapi.h(49,27): warning C4229: 오래된 구문을 사용했습니다. 데이터의 한정자가 무시됩니다.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\interlockedapi.h(49,27): error C4430: 형식 지정자가 없습니다. int로 가정합니다. 참고: C++에서는 기본 int를 지원하지 않습니다.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\interlockedapi.h(49,13): error C2065: 'PSLIST_HEADER': 선언되지 않은 식별자입니다.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\interlockedapi.h(49,27): error C2146: 구문 오류: ')'이(가) 'ListHead' 식별자 앞에 없습니다.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\interlockedapi.h(55,1): error C2143: 구문 오류: ';'이(가) '__stdcall' 앞에 없습니다.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\interlockedapi.h(55,1): error C4430: 형식 지정자가 없습니다. int로 가정합니다. 참고: C++에서는 기본 int를 지원하지 않습니다.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\interlockedapi.h(57,27): warning C4229: 오래된 구문을 사용했습니다. 데이터의 한정자가 무시됩니다.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\interlockedapi.h(57,27): error C4430: 형식 지정자가 없습니다. int로 가정합니다. 참고: C++에서는 기본 int를 지원하지 않습니다.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\interlockedapi.h(57,13): error C2065: 'PSLIST_HEADER': 선언되지 않은 식별자입니다.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\interlockedapi.h(57,27): error C2146: 구문 오류: ')'이(가) 'ListHead' 식별자 앞에 없습니다.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\interlockedapi.h(68,1): error C2143: 구문 오류: ';'이(가) '__stdcall' 앞에 없습니다.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\interlockedapi.h(68,1): error C4430: 형식 지정자가 없습니다. int로 가정합니다. 참고: C++에서는 기본 int를 지원하지 않습니다.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\interlockedapi.h(70,27): warning C4229: 오래된 구문을 사용했습니다. 데이터의 한정자가 무시됩니다.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\interlockedapi.h(70,27): error C4430: 형식 지정자가 없습니다. int로 가정합니다. 참고: C++에서는 기본 int를 지원하지 않습니다.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\interlockedapi.h(70,13): error C2065: 'PSLIST_HEADER': 선언되지 않은 식별자입니다.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\interlockedapi.h(70,27): error C2146: 구문 오류: ')'이(가) 'ListHead' 식별자 앞에 없습니다.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\interlockedapi.h(81,1): error C2143: 구문 오류: ';'이(가) '__stdcall' 앞에 없습니다.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\interlockedapi.h(81,1): error C4430: 형식 지정자가 없습니다. int로 가정합니다. 참고: C++에서는 기본 int를 지원하지 않습니다.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\interlockedapi.h(83,27): warning C4229: 오래된 구문을 사용했습니다. 데이터의 한정자가 무시됩니다.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\interlockedapi.h(83,27): error C4430: 형식 지정자가 없습니다. int로 가정합니다. 참고: C++에서는 기본 int를 지원하지 않습니다.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\interlockedapi.h(83,13): error C2065: 'PSLIST_HEADER': 선언되지 않은 식별자입니다.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\interlockedapi.h(83,27): error C2146: 구문 오류: ')'이(가) 'ListHead' 식별자 앞에 없습니다.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\interlockedapi.h(91,24): warning C4229: 오래된 구문을 사용했습니다. 데이터의 한정자가 무시됩니다.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\interlockedapi.h(91,24): error C2491: 'QueryDepthSList': dllimport 데이터을(를) 정의할 수 없습니다.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\interlockedapi.h(91,10): error C2065: 'PSLIST_HEADER': 선언되지 않은 식별자입니다.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\interlockedapi.h(91,24): error C2146: 구문 오류: ')'이(가) 'ListHead' 식별자 앞에 없습니다.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\processthreadsapi.h(95,19): warning C4229: 오래된 구문을 사용했습니다. 데이터의 한정자가 무시됩니다.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\processthreadsapi.h(95,19): error C2491: 'QueueUserAPC': dllimport 데이터을(를) 정의할 수 없습니다.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\processthreadsapi.h(95,10): error C2065: 'PAPCFUNC': 선언되지 않은 식별자입니다.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\processthreadsapi.h(95,19): error C2146: 구문 오류: ')'이(가) 'pfnAPC' 식별자 앞에 없습니다.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\sysinfoapi.h(388,30): warning C4229: 오래된 구문을 사용했습니다. 데이터의 한정자가 무시됩니다.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\sysinfoapi.h(388,30): error C2491: 'GetVersionExA': dllimport 데이터을(를) 정의할 수 없습니다.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\sysinfoapi.h(388,13): error C2065: 'LPOSVERSIONINFOA': 선언되지 않은 식별자입니다.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\sysinfoapi.h(388,30): error C2146: 구문 오류: ')'이(가) 'lpVersionInformation' 식별자 앞에 없습니다.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\sysinfoapi.h(397,30): warning C4229: 오래된 구문을 사용했습니다. 데이터의 한정자가 무시됩니다.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\sysinfoapi.h(397,30): error C2491: 'GetVersionExW': dllimport 데이터을(를) 정의할 수 없습니다.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\sysinfoapi.h(397,13): error C2065: 'LPOSVERSIONINFOW': 선언되지 않은 식별자입니다.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\sysinfoapi.h(397,30): error C2146: 구문 오류: ')'이(가) 'lpVersionInformation' 식별자 앞에 없습니다.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\threadpoollegacyapiset.h(67,10): error C2061: 구문 오류: 식별자 'WAITORTIMERCALLBACK'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\threadpoolapiset.h(35,39): error C2165: '왼쪽 한정자': 데이터에 대한 포인터를 수정할 수 없습니다.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\threadpoolapiset.h(35,17): error C2065: 'PTP_CALLBACK_INSTANCE': 선언되지 않은 식별자입니다.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\threadpoolapiset.h(35,39): error C2146: 구문 오류: ')'이(가) 'Instance' 식별자 앞에 없습니다.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\threadpoolapiset.h(48,1): error C2143: 구문 오류: ';'이(가) '__stdcall' 앞에 없습니다.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\threadpoolapiset.h(48,1): error C4430: 형식 지정자가 없습니다. int로 가정합니다. 참고: C++에서는 기본 int를 지원하지 않습니다.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\threadpoolapiset.h(50,6): error C4430: 형식 지정자가 없습니다. int로 가정합니다. 참고: C++에서는 기본 int를 지원하지 않습니다.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\threadpoolapiset.h(58,22): warning C4229: 오래된 구문을 사용했습니다. 데이터의 한정자가 무시됩니다.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\threadpoolapiset.h(57,1): error C2182: 'SetThreadpoolThreadMaximum': 'void' 형식을 잘못 사용했습니다.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\threadpoolapiset.h(58,22): error C2491: 'SetThreadpoolThreadMaximum': dllimport 데이터을(를) 정의할 수 없습니다.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\threadpoolapiset.h(58,22): error C2146: 구문 오류: ')'이(가) 'ptpp' 식별자 앞에 없습니다.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\threadpoolapiset.h(67,22): warning C4229: 오래된 구문을 사용했습니다. 데이터의 한정자가 무시됩니다.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\threadpoolapiset.h(67,22): error C2491: 'SetThreadpoolThreadMinimum': dllimport 데이터을(를) 정의할 수 없습니다.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\threadpoolapiset.h(67,22): fatal error C1003: 오류 수가 100개를 초과했습니다. 컴파일을 중지합니다.
